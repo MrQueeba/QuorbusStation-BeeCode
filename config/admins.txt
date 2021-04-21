@@ -10,6 +10,6 @@
 # and will override any duplicate entries in the database.									  #
 ###############################################################################################
 MrQueeba1 = Host
-nerdiestmaximus = Host
+
 
 # the rest are in the db
