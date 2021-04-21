@@ -222,6 +222,16 @@
 	isGlass = FALSE
 	foodtype = BREAKFAST
 
+/obj/item/reagent_containers/food/drinks/dunkaccino
+	name = "dunkaccino"
+	desc = "It's not Al anymore! It's DUNK!"
+	icon_state = "dunkaccino"
+	list_reagents = list(/datum/reagent/consumable/coffee = 30, /datum/reagent/consumable/milk = 5)
+	spillable = TRUE
+	resistance_flags = FREEZE_PROOF
+	isGlass = FALSE
+	foodtype = BREAKFAST
+
 /obj/item/reagent_containers/food/drinks/ice
 	name = "ice cup"
 	desc = "Careful, cold ice, do not chew."
